@@ -1,8 +1,8 @@
 # Seguridad_Informatica2025-1
 Takehome Seguridad Informatica
+cada vez que lo abras 
 
-git clone URL
-python -m venv venv
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process 
 venv\Scripts\activate
 pip install -r requirements.txt
-jupyter notebook
+
